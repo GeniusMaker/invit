@@ -1,0 +1,21 @@
+{
+  "pageHeaders": {
+    "bday": {
+      "pb": {
+        "title": "ਜਨਮਦਿਨ ਦੇ ਸੱਦਾ ਕਾਰਡ",
+        "desc": "ਬੱਚਿਆਂ ਅਤੇ ਵੱਡਿਆਂ ਲਈ ਸੁੰਦਰ ਪੰਜਾਬੀ ਜਨਮਦਿਨ ਨਿਮੰਤਰਣ ਕਾਰਡ ਚੁਣੋ।"
+      }
+    }
+  },
+  "cards": [
+    {
+      "id": "pb_bday_test",
+      "category": "bday",
+      "lang": "pb",
+      "title": "ਟੈਸਟ ਜਨਮਦਿਨ ਕਾਰਡ",
+      "thumb": "https://raw.githubusercontent.com/GeniusMaker/invit/refs/heads/main/card2.png",
+      "blueprintUrl": "https://raw.githubusercontent.com/GeniusMaker/invit/refs/heads/main/templates/bday/pb_bday_test.json",
+      "btnText": "ਡਿਜ਼ਾਈਨ ਬਣਾਓ →"
+    }
+  ]
+}
