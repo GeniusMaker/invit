@@ -1,0 +1,55 @@
+{
+  "id": "pb_bday_test",
+  "title": "ਜਨਮਦਿਨ ਨਿਮੰਤਰਣ ਕਾਰਡ (Test Template)",
+  "category": "bday",
+  "lang": "pb",
+  "canvas": {
+    "width": 800,
+    "height": 1200,
+    "backgroundImage": "https://raw.githubusercontent.com/GeniusMaker/invit/refs/heads/main/card2.png"
+  },
+  "fonts": [
+    {
+      "family": "Noto Sans Gurmukhi",
+      "url": "https://fonts.googleapis.com/css2?family=Noto+Sans+Gurmukhi:wght@400;600;700&display=swap"
+    }
+  ],
+  "textElements": [
+    {
+      "id": "heading",
+      "label": "ਮੁੱਖ ਹੈਡਿੰਗ (Heading)",
+      "text": "ਜਨਮਦਿਨ ਮੁਬਾਰਕ!",
+      "x": 400,
+      "y": 200,
+      "fontSize": 48,
+      "fontWeight": "700",
+      "fontFamily": "Noto Sans Gurmukhi",
+      "color": "#d97706",
+      "align": "center"
+    },
+    {
+      "id": "child_name",
+      "label": "ਨਾਮ (Name)",
+      "text": "[ਬੱਚੇ ਦਾ ਨਾਮ]",
+      "x": 400,
+      "y": 500,
+      "fontSize": 50,
+      "fontWeight": "700",
+      "fontFamily": "Noto Sans Gurmukhi",
+      "color": "#1e3a8a",
+      "align": "center"
+    },
+    {
+      "id": "event_date",
+      "label": "ਮਿਤੀ ਅਤੇ ਸਮਾਂ (Date & Time)",
+      "text": "ਮਿਤੀ: [ਤਾਰੀਖ਼] | ਸਮਾਂ: 5:00 ਵਜੇ",
+      "x": 400,
+      "y": 800,
+      "fontSize": 24,
+      "fontWeight": "600",
+      "fontFamily": "Noto Sans Gurmukhi",
+      "color": "#374151",
+      "align": "center"
+    }
+  ]
+}
