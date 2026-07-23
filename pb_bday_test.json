@@ -6,7 +6,7 @@
   "canvas": {
     "width": 800,
     "height": 1200,
-    "backgroundImage": "https://raw.githubusercontent.com/GeniusMaker/invit/refs/heads/main/card2.png"
+    "backgroundImage": "https://cdn.jsdelivr.net/gh/GeniusMaker/invit@main/card2.png"
   },
   "fonts": [
     {
